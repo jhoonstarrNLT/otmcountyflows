@@ -71,3 +71,6 @@ There are a few different job types in the LODES Origin-Destination data. The op
 'si01': 'Number of jobs in Goods Producing industry sectors'
 'si02': 'Number of jobs in Trade, Transportation, and Utilities industry sectors'
 'si03': 'Number of jobs in All Other Services industry sectors'
+
+## What are the NaN values seen in the output file?
+Because this example limited the results of the OnTheMap output to the top 50 results there are some occasions where a county will fall outside this threshold. In these cases, a 'NaN' value appears in the output table. If the source OnTheMap data was set to return 'All' result then these values could be set to 0 as there are no workers who live in county A and work in county B.
