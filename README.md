@@ -15,7 +15,7 @@ This specific example takes all counties in the state of Maryland and creates a 
     +--------------+------------+--------------+-----------+
     |              |  Alleganey | Anne Arundel | Baltimore |
     +--------------+------------+--------------+-----------+
-    | Alleganey    |  15655     |   226	       |  361      |
+    | Alleganey    |  15655     |   226        |  361      |
     | Anne Arundel |  673       |   95352      |  28330    |
     | Baltimore    |  574       |   19084      |  148749   |
     +--------------+------------+--------------+-----------+
